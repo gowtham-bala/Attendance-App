@@ -1,17 +1,1 @@
-# attendance_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Attendance & Leave Management SystemA full-stack application designed to streamline and automate workforce attendance tracking, leave applications, and approval workflows.🚀 FeaturesRole-Based Dashboard: Separate views for Admins, Managers, and Employees.Attendance Tracking: Real-time clock-in/out with location verification and timestamps.Leave Management: Submit, track, and manage leave requests (sick, casual, annual).Approval Workflows: Managers can approve or reject leave requests with comments.Analytics & Reporting: Visualized attendance history and monthly summary reports.Secure Authentication: JWT-based secure login and session management.🛠️ Tech StackFrontend:Flutter: Cross-platform mobile framework (iOS & Android).State Management: Provider / Bloc / Riverpod (depending on your preference).HTTP Client: Dio / Http for communicating with the REST API.Backend:Spring Boot: RESTful API development.Security: Spring Security with JWT.Database: PostgreSQL / MySQL.Build Tool: Maven.⚙️ PrerequisitesFlutter SDK: Version 3.19 or higher.Java: JDK 17 or higher.Database: MySQL or PostgreSQL instance.IDE: VS Code / Android Studio (for Flutter) and IntelliJ IDEA (for Spring Boot).
